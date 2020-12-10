@@ -1,0 +1,16 @@
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/bin/Debug/net5.0/ClassAndObjects
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/bin/Debug/net5.0/ClassAndObjects.deps.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/bin/Debug/net5.0/ClassAndObjects.runtimeconfig.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/bin/Debug/net5.0/ClassAndObjects.runtimeconfig.dev.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/bin/Debug/net5.0/ClassAndObjects.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/bin/Debug/net5.0/ref/ClassAndObjects.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/bin/Debug/net5.0/ClassAndObjects.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.csprojAssemblyReference.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.AssemblyInfoInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.AssemblyInfo.cs
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.csproj.CoreCompileInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ref/ClassAndObjects.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-2/ClassAndObjects/obj/Debug/net5.0/ClassAndObjects.genruntimeconfig.cache

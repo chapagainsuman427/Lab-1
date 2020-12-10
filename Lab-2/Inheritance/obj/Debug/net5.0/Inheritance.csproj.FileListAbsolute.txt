@@ -1,0 +1,16 @@
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/bin/Debug/net5.0/Inheritance
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.csprojAssemblyReference.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-2/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
