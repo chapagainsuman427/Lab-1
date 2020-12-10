@@ -1,0 +1,16 @@
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/bin/Debug/net5.0/OverridingAndOverloading
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/bin/Debug/net5.0/OverridingAndOverloading.deps.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/bin/Debug/net5.0/OverridingAndOverloading.runtimeconfig.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/bin/Debug/net5.0/OverridingAndOverloading.runtimeconfig.dev.json
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/bin/Debug/net5.0/OverridingAndOverloading.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/bin/Debug/net5.0/ref/OverridingAndOverloading.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/bin/Debug/net5.0/OverridingAndOverloading.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.csprojAssemblyReference.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.AssemblyInfoInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.AssemblyInfo.cs
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.csproj.CoreCompileInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/ref/OverridingAndOverloading.dll
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-2/OverridingAndOverloading/obj/Debug/net5.0/OverridingAndOverloading.genruntimeconfig.cache
