@@ -1,0 +1,16 @@
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.csprojAssemblyReference.cache
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.AssemblyInfoInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.AssemblyInfo.cs
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.csproj.CoreCompileInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/bin/Debug/net5.0/delegate
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/bin/Debug/net5.0/delegate.deps.json
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/bin/Debug/net5.0/delegate.runtimeconfig.json
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/bin/Debug/net5.0/delegate.runtimeconfig.dev.json
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/bin/Debug/net5.0/delegate.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/bin/Debug/net5.0/ref/delegate.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/bin/Debug/net5.0/delegate.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/ref/delegate.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-3/delegate/obj/Debug/net5.0/delegate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.csprojAssemblyReference.cache
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.AssemblyInfoInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.AssemblyInfo.cs
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.csproj.CoreCompileInputs.cache
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/bin/Debug/net5.0/interface
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/bin/Debug/net5.0/interface.deps.json
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/bin/Debug/net5.0/interface.runtimeconfig.json
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/bin/Debug/net5.0/interface.runtimeconfig.dev.json
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/bin/Debug/net5.0/interface.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/bin/Debug/net5.0/ref/interface.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/bin/Debug/net5.0/interface.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/ref/interface.dll
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.pdb
+/home/reddevils/Documents/NCC-Lab/Lab-3/interface/obj/Debug/net5.0/interface.genruntimeconfig.cache
